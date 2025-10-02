@@ -1,17 +1,15 @@
 ---
 name: Andreia Sofia Teixeira
-image: images/photo.jpg
+image: images/profileandreiasofiateixeira.jpg
 role: principal-investigator
 affiliation: Network Science Institute, Northeastern University London
 links:
   home-page: andreiasofiateixeira.com
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-2758-1891
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+I am an Associate Professor (Teaching and Research) in the Network Science Institute at Northeastern University London. I am also a member of the Executive Committee of the Network Science Society, a member of the council of the Complex Systems Society, the Vice President of the Women in Network Science Society and the former Chair of the advisory board of yrCSS.
+
+Previously I was an Assistant Professor in the Department of Informatics at the Faculty of Sciences, University of Lisbon and a Researcher at LASIGE, being the Co-Coordinator of the PhD Program in Complexity Sciences. Before that I was a Research Scientist at Hospital da Luz Learning Health, and a Collaborator at INESC-ID. Between August 2019 and December 2020 I was a Postdoctoral Researcher at Indiana University Bloomington, and a Fellow at IU Network Science Institute (IUNI), Indiana, United States.
+
+I have a PhD (July, 2019) in Information Systems and Computer Engineering from the Department of Computer Science and Engineering of Instituto Superior Técnico (IST), Universidade de Lisboa (Portugal).
