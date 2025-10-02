@@ -3,9 +3,6 @@ name: Andreia Sofia Teixeira
 image: images/photo.jpg
 role: principal-investigator
 affiliation: Network Science Institute, Northeastern University London
-aliases:
-  - J. Smith
-  - J Smith
 links:
   home-page: andreiasofiateixeira.com
   orcid: 0000-0001-8713-9213
