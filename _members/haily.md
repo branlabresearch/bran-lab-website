@@ -4,7 +4,7 @@ image: images/headshot.jpg
 role: Postdoctoral Researcher
 links:
   email: h.merritt@nulondon.ac.uk
-  twitter: h-merritt.bsky.social
+  bluesky: h-merritt.bsky.social
 ---
 
 I’m haily, a shape-shifting scholar doing cryptid science, aka a multidisciplinary scientist with expertise spanning complex systems science, social and developmental neuroscience, and artificial life.
