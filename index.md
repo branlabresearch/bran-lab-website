@@ -3,7 +3,9 @@
 
 # branlabresearch's Website
 
-An engaging 1-3 sentence description of your lab.
+Behavioral Research and Adaptive Networks
+
+Bridging Minds, Behavior, and Society through Network Science
 
 {% include section.html %}
 
