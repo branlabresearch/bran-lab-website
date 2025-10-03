@@ -4,7 +4,10 @@ image: images/headshot.jpg
 role: Postdoctoral Researcher
 links:
   email: h.merritt@nulondon.ac.uk
+  github: h-merritt
+  website: h-merritt.github.io
   bluesky: h-merritt.bsky.social
+  ORCID: 0000-0002-7422-3421
 ---
 
 I’m haily, a shape-shifting scholar doing cryptid science, aka a multidisciplinary scientist with expertise spanning complex systems science, social and developmental neuroscience, and artificial life.
