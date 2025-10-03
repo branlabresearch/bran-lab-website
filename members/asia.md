@@ -4,4 +4,5 @@ images/photo.jpg
 phd
 github
 asia.maurichnovel@gmail.com
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Asia is a PhD student at the BRAN Lab, Network Science Institute, Northeastern University London, under the supervision of Prof. Andreia Sofia Teixeira. She holds a Bachelor’s degree in Physics and a Master’s degree in Physics of Complex Systems from the University of Turin. Her research sits at the intersection of mental health, network science, and machine learning, with a focus on identifying novel markers and patterns in mental health trajectories. She develops computational approaches for integrating and analyzing multimodal data to advance the understanding and profiling of mental health.
