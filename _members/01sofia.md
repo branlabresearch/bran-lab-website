@@ -1,5 +1,5 @@
 ---
-name: Andreia Sofia Teixeira
+name: Andreia Sofia Teixeira, PhD
 image: images/profileandreiasofiateixeira.jpg
 role: principal-investigator
 affiliation: Network Science Institute, Northeastern University London
