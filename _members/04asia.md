@@ -1,9 +1,8 @@
-
 ---
 name:	
   Asia Maurich Novelli
 image: 
-  images/photo.jpg
+  images/asia.jpeg
 role: 
   phd
 links:
