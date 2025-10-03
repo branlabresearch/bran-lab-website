@@ -1,7 +1,7 @@
 ---
 name: Haily Merritt
 image: images/headshot.jpg
-role: Postdoctoral Researcher
+role: Postdoc
 links:
   email: h.merritt@nulondon.ac.uk
   github: h-merritt
