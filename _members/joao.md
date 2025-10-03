@@ -1,6 +1,6 @@
 ---
 name: Jo&atildeo Br&agrave
-image: images/photo.jpg
+image: images/joao.jpg
 role: phd
 links:
   github: joao.brazia@tecnico.ulisboa.pt
