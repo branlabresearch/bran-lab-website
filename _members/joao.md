@@ -1,5 +1,5 @@
 ---
-name: Jo&atildeo Br&agrave
+name: João Br&agrave
 image: images/joao.jpg
 role: phd
 links:
