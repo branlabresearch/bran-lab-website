@@ -1,5 +1,5 @@
 ---
-name: João Br&agrave
+name: João Brázia
 image: images/joao.jpg
 role: phd
 links:
